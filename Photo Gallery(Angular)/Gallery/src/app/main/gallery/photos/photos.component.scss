@@ -1,0 +1,15 @@
+.photos{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: bisque;
+}
+
+.heading{
+  margin: 10px 0;
+  color: blue;
+}
+
+.btn-add{
+  margin-top: 15px;
+}

@@ -1,0 +1,22 @@
+<div>
+  <form class="form" [formGroup]="form">
+    <p>
+      <mat-form-field appearance="legacy">
+        <mat-label>Email</mat-label>
+        <input matInput placeholder="Enter your email..." formControlName="email">
+        <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+        <mat-hint></mat-hint>
+      </mat-form-field>
+    </p>
+    <p>
+      <mat-form-field appearance="legacy">
+        <mat-label>Password</mat-label>
+        <input type="password" matInput placeholder="Enter your password..." formControlName="password">
+        <mat-icon matSuffix>sentiment_very_satisfied</mat-icon>
+        <mat-hint></mat-hint>
+      </mat-form-field>
+    </p>
+    <button mat-raised-button color="primary" (click)="onLoginClick()" [disabled]="!form.valid">LogIn</button>
+    <button mat-raised-button color="primary" (click)="onRegistrationClick()" [disabled]="!form.valid">Registration</button>
+  </form>
+</div>

@@ -1,0 +1,17 @@
+<div class="photo">
+  <img src="{{photo.url}}">
+  <div>Name: {{photo.name}}</div>
+  <div>Description: {{photo.description}}</div>
+  <div>Author: {{photo.author}}</div>
+  <div>Rating: {{photo.rating}}</div>
+  <div>Creation date: {{photo.creationDate.toDateString()}}</div>
+  <div>
+    <button class="btn btn-warning btn-edit" style="margin-right: 5px;" [routerLink]="['/editPhoto/', photo.id]">Edit</button>
+    <button class="btn btn-danger btn-remove" (click)="onBtnRemoveClick()">Remove</button>
+  </div>
+  <div>
+    <button class="btn btn-secondary btn-feedback" style="margin-right: 5px;"
+            [routerLink]="['/postFeedback/', photo.id]">Post feedback</button>
+    <button class="btn btn-secondary btn-feedback" [routerLink]="['/feedbacks/', photo.id]">See feedbacks</button>
+  </div>
+</div>

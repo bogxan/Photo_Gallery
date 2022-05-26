@@ -1,0 +1,31 @@
+.photo{
+  width: 300px;
+  background-color: lightgreen;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 10px 5px 5px black;
+}
+
+.photo > img{
+  width: 100%;
+  height: 140px;
+}
+
+.btn-edit{
+  width: 48%;
+  margin-right: 2px;
+}
+.btn-remove{
+  width: 48%;
+  background-color: coral;
+  color: black;
+  border: none;
+}
+
+.btn-feedback{
+  margin-top: 10px;
+  width: 48%;
+  background-color: khaki;
+  color: black;
+  border: none;
+}

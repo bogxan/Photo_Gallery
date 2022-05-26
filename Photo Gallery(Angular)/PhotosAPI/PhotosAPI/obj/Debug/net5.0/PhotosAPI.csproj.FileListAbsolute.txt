@@ -1,0 +1,324 @@
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.AssemblyReference.cache
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfoInputs.cache
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfo.cs
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.exe
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.deps.json
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.json
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.dev.json
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.pdb
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.Manifest.cache
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.xml
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\scopedcss\bundle\PhotosAPI.styles.css
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CopyComplete
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.pdb
+C:\Users\prim5\OneDrive\Рабочий стол\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.genruntimeconfig.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.exe
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.deps.json
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.json
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.dev.json
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.pdb
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfo.cs
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.Manifest.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.xml
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\scopedcss\bundle\PhotosAPI.styles.css
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CopyComplete
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.pdb
+C:\Users\student\Desktop\AngularStep\Angular\Practice6\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.genruntimeconfig.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.exe
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.deps.json
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.json
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.dev.json
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.pdb
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.AssemblyReference.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfoInputs.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfo.cs
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.Manifest.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.xml
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\scopedcss\bundle\PhotosAPI.styles.css
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CopyComplete
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.pdb
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.genruntimeconfig.cache
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bohdan\Downloads\Telegram Desktop\ДЗ 9\ДЗ 9\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.exe
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.deps.json
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.json
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.dev.json
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.pdb
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfo.cs
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.Manifest.cache
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.xml
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\scopedcss\bundle\PhotosAPI.styles.css
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CopyComplete
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.pdb
+C:\Users\student\Desktop\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.genruntimeconfig.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.exe
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.deps.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.runtimeconfig.dev.json
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\PhotosAPI.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.AssemblyReference.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfoInputs.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.AssemblyInfo.cs
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.Manifest.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\staticwebassets\PhotosAPI.StaticWebAssets.xml
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\scopedcss\bundle\PhotosAPI.styles.css
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.csproj.CopyComplete
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\ref\PhotosAPI.dll
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.pdb
+C:\Users\Bohdan\OneDrive\Рабочий стол\Angular\example\PhotosAPI\PhotosAPI\obj\Debug\net5.0\PhotosAPI.genruntimeconfig.cache

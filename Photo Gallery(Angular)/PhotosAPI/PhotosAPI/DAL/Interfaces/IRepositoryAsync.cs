@@ -1,0 +1,18 @@
+﻿using PhotosAPI.DAL.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace PhotosAPI.DAL.Interfaces
+{
+    public interface IRepositoryAsync<T>
+        where T : BaseEntity
+    {
+        Task Create(T entity);
+        Task<T> Get(int id);
+        Task<List<T>> GetAll();
+        Task Remove(int id);
+        Task Update(T entity);
+    }
+}

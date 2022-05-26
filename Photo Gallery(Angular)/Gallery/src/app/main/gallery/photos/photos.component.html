@@ -1,0 +1,7 @@
+<div style="margin-left: 20px;">
+  <button class="btn btn-primary btn-add" style="background-color: lightgreen; color: black;" routerLink="/createPhoto" >Add new photo</button>
+  <div class="photos" *ngIf="this.photosService.photos$ | async as photos">
+    <photo *ngFor="let photo of photos" [photo]="photo"></photo>
+  </div>
+</div>
+<router-outlet></router-outlet>

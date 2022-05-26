@@ -1,0 +1,14 @@
+<div>
+  <h3 style="margin-top: 15px; margin-left: 45%">New feedback</h3>
+  <form class="form" [formGroup]="form">
+    <div class="mb-1">
+      <label for="inputFeedback" class="form-label">Feedback</label>
+      <input type="text" class="form-control" formControlName="feedback" id="inputFeedback">
+      <div *ngIf="!form.controls['feedback'].valid" class="form-text text-danger">Invalid</div>
+    </div>
+    <div class="btns">
+      <button class="btn btn-primary" (click)="onAddFeedbackClick()">Save feedback</button>
+      <button style="margin-bottom: 15px" class="btn btn-danger" routerLink="/photos">Close form</button>
+    </div>
+  </form>
+</div>
